@@ -6,6 +6,7 @@
 // @author       en20
 // @include      http*://*
 // @grant        none
+// @license MIT
 // @run-at		 document-start
 // ==/UserScript==
 (function () {
